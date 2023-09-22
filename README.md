@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ereymundopep&show_icons=true&theme=gotham" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ereymundopep&show_icons=true&theme=gotham" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereymundopep" />
 <!--
 **ereymundopep/ereymundopep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

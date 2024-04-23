@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Eric, I am a detection engineer. 
+
+plz
 <!--
 **ereymundopep/ereymundopep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
